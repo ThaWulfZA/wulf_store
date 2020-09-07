@@ -63,12 +63,12 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   fonts:
-    - family: Muli
+    - family: Eva Font
       fonts:
-        - asset: assets/fonts/muli/Muli.ttf
-        - asset: assets/fonts/muli/Muli-Bold.ttf
+        - asset: assets/fonts/Eva-Font/Eva-Regular.ttf
+        - asset: assets/fonts/Eva-Font/Eva-Bold.ttf
           weight: 700
-        - asset: assets/fonts/muli/Muli-Light.ttf
+        - asset: assets/fonts/Eva-Font/Eva-Light.ttf
           weight: 300
   #   - family: Trajan Pro
   #     fonts:
